@@ -35,7 +35,6 @@ body {
   flex-direction: column;
   /* justify-content: space-between; */
   margin: 10vh auto;
-  border: 1px solid blue;
   border-radius: 20px;
   background: white;
 }
