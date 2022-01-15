@@ -17,6 +17,8 @@ body {
   background-image: url(images/pattern-background-mobile.svg);
   background-repeat: no-repeat;
   background-size: cover;
+  display: flex;
+  justify-content: center;
 }
 
 @media screen and (min-width: 640px) {
@@ -34,7 +36,7 @@ body {
   display: flex;
   flex-direction: column;
   /* justify-content: space-between; */
-  margin: 10vh auto;
+  margin: 10vh 0;
   border-radius: 20px;
   background: white;
 }
